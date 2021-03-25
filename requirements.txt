@@ -19,7 +19,7 @@ pylint==2.3.1
 python-dateutil==2.8.0
 python-dotenv==0.10.3
 python-telegram-bot==12.2.0
-PyYAML==5.1.2
+PyYAML==5.4
 rsa==3.4.2
 s3transfer==0.2.1
 six==1.12.0
